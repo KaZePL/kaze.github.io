@@ -1,4 +1,4 @@
-## ./Close this world. Open the next.
+## .//Close this world. Open the next.
 
 You can use the [editor on GitHub](https://github.com/KaZePL/kaze.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
